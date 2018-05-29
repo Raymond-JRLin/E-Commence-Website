@@ -3,10 +3,21 @@ body {
   padding-bottom: 20px;
 }
 
+.container {
+	width: 90%;
+}
+
 .navbar {
   margin-bottom: 20px;
 }
 
 .box {
 	border: 1px solid red;
+}
+
+hr {
+	border: none;
+	height: 1px;
+	color: #33;
+	background-color: #333;
 }
