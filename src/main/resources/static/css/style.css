@@ -34,3 +34,7 @@ hr {
 	background-color: #231F20;
 	padding 5px 22px;
 }
+
+.navbar-form {
+	display: inline-block;
+}
